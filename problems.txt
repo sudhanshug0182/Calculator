@@ -1,0 +1,3 @@
+display problem
+trimonometric, permutation & combination,factorial, logarthmic,percentage, power and square-root keys are not functional
+toggle icon to be added
